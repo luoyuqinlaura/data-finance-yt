@@ -26,3 +26,7 @@ https://tailwindcss.com/docs/guides/create-react-app
 ## Analytics Page Part
 
 1. grid: in tailwind, the grid is default 1, according to the screen size, we can change it.
+
+## Newsletter Page
+
+1. play with the grid and tailwind css
