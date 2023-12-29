@@ -30,3 +30,9 @@ https://tailwindcss.com/docs/guides/create-react-app
 ## Newsletter Page
 
 1. play with the grid and tailwind css
+
+## User cards Page
+
+1. in the image, we used
+   `mt-[-3rem]`
+   which means the image is above the margin top for 3rem.
