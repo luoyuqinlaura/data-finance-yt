@@ -2,7 +2,7 @@
 
 ## Demo
 
-<img src="../data-finance-yt/src/assets/demo.gif">
+<img src="https://github.com/luoyuqinlaura/data-finance-yt/blob/main/src/assets/demo.gif">
 ## Set up
 
 ```
