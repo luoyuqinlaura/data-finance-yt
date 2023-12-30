@@ -21,9 +21,9 @@ const Navbar = () => {
       </div>
       <div
         className={
-          !nav
-            ? 'fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-full bg-[#000300] ease-in-out duration-500'
-            : 'fixed left-[-100%]'
+          nav
+            ? 'fixed left-[-100%]'
+            : 'fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-full bg-[#000300] ease-in-out duration-500'
         }
       >
         <h1 className="w-full text-3xl font-bold m-4 text-[#00df9a]">React.</h1>

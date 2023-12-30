@@ -1,5 +1,8 @@
 # React JS & Tailwind CSS Responsive Website
 
+## Demo
+
+<img src="../data-finance-yt/src/assets/demo.gif">
 ## Set up
 
 ```
